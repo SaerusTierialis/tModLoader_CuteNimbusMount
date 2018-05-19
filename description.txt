@@ -1,0 +1,19 @@
+Adds a two-in-one Nimbus mount.
+
+When it is not raining, the Nimbus is fluffy and cute. When it rains, the Nimbus becomes an angry Cumulonimbus. In both forms, the mount has unlimited hover flight similar to the Cosmic Car Key.
+
+The Nimbus is crafted from a Nimbus Rod, 100 Cloud, and 100 Soul of Flight.
+
+Shares a homepage with my main mod.
+
+v1.0.4
+-Updated for tModLoader v0.10.1.3
+
+v1.0.3
+-Updated for tModLoader v0.10.1
+
+v1.0.2
+-fixed crafting bug that was affecting other mods (introduced in v1.0.1)
+
+v1.0.1
+-compatibility with tModLoader v0.10.0.1
